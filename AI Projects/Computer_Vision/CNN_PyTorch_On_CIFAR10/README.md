@@ -10,5 +10,7 @@ This notebook also covers plotting the training accuracy and training loss of ea
 Other models/methods used are also covered at the end of the notebook.
 ## Conclusions
 The third model's architecture provided better accuracy results. It used BatchNorm2D in lieu of LayerNorm. The number of out_channels in each conv layer were also increased from previous models.
-```Citations:
-Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.```
+```
+Citations:
+Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
+```
